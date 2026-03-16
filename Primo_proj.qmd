@@ -1,0 +1,52 @@
+---
+title: "Primo Progetto"
+subtitle: "Speriamo che funzioni"
+author: "Noemi Veronese"
+format: html
+page-layout: full
+bibliography: "bib2.bib"
+bibliographystyle: apa 
+csl: "apa.csl"
+documentclass: "apa7"
+execute:   #default per tutti i chunk
+  cache: true
+  warning: false
+embed-resources: true
+self-contained: true 
+self-contained-math: true  #così mi legge formule matematiche
+code-fold: true  #oer ogni chunk mi da la possibilita di aprire e chiudere
+format: html
+editor: visual
+---
+
+```{css, echo=FALSE}
+.title {
+  font-size: 100px;
+  color: purple !important;
+}
+```
+
+# Sviluppo di uno strumento Psicometrico sull’Attenzione Sostenuta
+
+L’attenzione sostenuta è una sfaccettatura del costrutto più generale di ”attenzione". E'la capacità di mantenere l'attenzione su un compito per un periodo di tempo. (Davies e Parasuraman, 1982; Parasuraman, 1998)
+
+## I dati raccolti
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
