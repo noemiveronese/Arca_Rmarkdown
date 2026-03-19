@@ -1,0 +1,16 @@
+pre code {
+  background-color: #e7e7ff !important;
+}
+
+.reveal h1 {
+  color: #6a0d83;
+  font-weight: bold;
+}
+
+.reveal h2 {
+  color: #ce4993;
+}
+
+.reveal h3 {
+  color: #ee5d6c;
+}
