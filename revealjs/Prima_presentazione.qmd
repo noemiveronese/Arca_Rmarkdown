@@ -138,7 +138,7 @@ Ecco! Qualcuno si Ã¨ addormentato e qualcuno andava a caso, eliminare qualcosa Ã
 
 [^1]: metodo statistico usato per determinare la sample size minima per ottenere un effetto significativo
 
-## Buone Pratiche 
+## Buone Pratiche
 
 Tutte le pratiche **OPEN** :
 
@@ -169,9 +169,9 @@ Per informazioni:
 noemi.veronese\@studenti.unipd.it
 
 ::: r-stack
-![](figures/OpenScience_pvalue.jpg){.fragment .absolute bottom="80" left="180" width="350"} 
+![](figures/OpenScience_pvalue.jpg){.fragment .absolute bottom="80" left="180" width="350"}
 
-![](figures/Crying.jpg){.fragment .absolute bottom="40" left="180" width="350"} 
+![](figures/Crying.jpg){.fragment .absolute bottom="40" left="180" width="350"}
 
 ![](figures/bitingpc.jpg){.fragment .absolute bottom="40" left="180" width="350"}
 :::

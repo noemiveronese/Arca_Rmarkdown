@@ -1,0 +1,29 @@
+project:
+  type: book
+
+book:
+  title: "La mia tesi"
+  author: "Noemi Veronese"
+  date: "19/03/2026"
+  chapters:
+    - index.qmd
+    - Introduzione.qmd
+    - Corpo.qmd
+    - Conclusione.qmd
+
+bibliography: references.bib
+
+format:
+  pdf:
+    documentclass: book
+    papersize: A4
+    fontsize: 12pt
+    geometry:
+      - left=1.5in
+      - right=1in
+    toc: true
+    number-sections: true
+    colorlinks: true
+    mainfont: Times New Roman
+
+editor: visual
